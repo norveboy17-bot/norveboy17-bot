@@ -7,7 +7,8 @@
 
 
 
-Software Engineering Student at Institut Teknologi Del
+IT Student at Institut Teknologi Del
+Focused on Full-Stack Development 
 
 
 
