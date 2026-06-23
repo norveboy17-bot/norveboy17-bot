@@ -1,69 +1,19 @@
-![Laravel](https://img.shields.io/badge/Laravel-10-red)
-![PHP](https://img.shields.io/badge/PHP-8-blue)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-![Flutter](https://img.shields.io/badge/Flutter-Learning-blue)
-
 # Hi, I'm Evron 👋
 
+🚀 Interested in Full-Stack Web Development
 
+💻 Currently building:
+- Vehicle Management System (Laravel)
+- Flutter Mobile Applications
 
-IT Student at Institut Teknologi Del
-Focused on Full-Stack Development 
-
-
-
-## Technologies
-
-
-
-- PHP
-
+📚 Currently learning:
 - Laravel
-
-- MySQL
-
-- HTML
-
-- CSS
-
-- JavaScript
-
-- Git
+  ![Laravel](https://img.shields.io/badge/Laravel-10-red)
+- Flutter
+  ![Flutter](https://img.shields.io/badge/Flutter-Learning-blue)
+- Database Design
+  ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 
 
-
-## Current Focus
-
-
-
-- Full-Stack Development
-
-- Flutter Development
-
-- Software Engineering
-
-
-
-## Featured Project
-
-
-
-🚗 Vehicle Management System
-https://github.com/norveboy17-bot/vehicle-management-system
-
-
-
-A Laravel-based fleet management system featuring:
-
-
-
-- Vehicle reservations
-
-- Trip logs
-
-- Maintenance management
-
-- Reports and analytics
-
-\- Role-based access control
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&size=28&center=true&vCenter=true&width=900&lines=Evron+Tarihoran;Full-Stack+Developer+Wannabe;Laravel+%7C+Flutter+%7C+MySQL)](https://git.io/typing-svg)
 
