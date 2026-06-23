@@ -3,7 +3,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 ![Flutter](https://img.shields.io/badge/Flutter-Learning-blue)
 
-\# Hi, I'm Evron 👋
+# Hi, I'm Evron 👋
 
 
 
@@ -12,39 +12,39 @@ Focused on Full-Stack Development
 
 
 
-\## Technologies
+## Technologies
 
 
 
-\- PHP
+- PHP
 
-\- Laravel
+- Laravel
 
-\- MySQL
+- MySQL
 
-\- HTML
+- HTML
 
-\- CSS
+- CSS
 
-\- JavaScript
+- JavaScript
 
-\- Git
-
-
-
-\## Current Focus
+- Git
 
 
 
-\- Full-Stack Development
-
-\- Flutter Development
-
-\- Software Engineering
+## Current Focus
 
 
 
-\## Featured Project
+- Full-Stack Development
+
+- Flutter Development
+
+- Software Engineering
+
+
+
+## Featured Project
 
 
 
@@ -56,13 +56,13 @@ A Laravel-based fleet management system featuring:
 
 
 
-\- Vehicle reservations
+- Vehicle reservations
 
-\- Trip logs
+- Trip logs
 
-\- Maintenance management
+- Maintenance management
 
-\- Reports and analytics
+- Reports and analytics
 
 \- Role-based access control
 
