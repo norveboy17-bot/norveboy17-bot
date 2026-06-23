@@ -8,11 +8,8 @@
 
 📚 Currently learning:
 - Laravel
-  ![Laravel](https://img.shields.io/badge/Laravel-10-red)
 - Flutter
-  ![Flutter](https://img.shields.io/badge/Flutter-Learning-blue)
 - Database Design
-  ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&size=28&center=true&vCenter=true&width=900&lines=Evron+Tarihoran;Full-Stack+Developer+Wannabe;Laravel+%7C+Flutter+%7C+MySQL)](https://git.io/typing-svg)
